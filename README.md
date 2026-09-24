@@ -1,25 +1,5 @@
-<svg width="430" height="76" viewBox="0 0 430 76" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="gradient" x1="0" y1="0" x2="430" y2="76" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FF6A00"/>
-      <stop offset="1" stop-color="#7C3AED"/>
-    </linearGradient>
-    <filter id="shadow" x="-20%" y="-30%" width="140%" height="170%">
-      <feDropShadow dx="0" dy="8" stdDeviation="7" flood-color="#7C3AED" flood-opacity="0.35"/>
-    </filter>
-  </defs>
-
-  <!-- هرچه rx بزرگ‌تر باشد، گوشه‌ها گردتر هستند -->
-  <rect x="4" y="4" width="422" height="68" rx="34" fill="url(#gradient)" filter="url(#shadow)"/>
-
-  <circle cx="42" cy="38" r="19" fill="white" fill-opacity="0.18"/>
-
-  <path
-    d="M34 31.5C34 29.57 35.57 28 37.5 28C39.43 28 41 29.57 41 31.5C41 33.43 39.43 35 37.5 35C35.57 35 34 33.43 34 31.5ZM34.5 37H40.5V48H34.5V37ZM43 37H48.75V38.5C49.55 37.35 50.95 36.65 52.75 36.65C56.2 36.65 58 38.8 58 42.65V48H52V43.4C52 41.55 51.35 40.3 49.7 40.3C48.15 40.3 47.35 41.35 47.35 43.4V48H43V37Z"
-    fill="white"
-  />
-
-  <text x="76" y="46" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">
-    Connect with me on LinkedIn
-  </text>
-</svg>
+<p align="center">
+  <a href="https://www.linkedin.com/in/arshiya-saleh-jalali-6b0571275/">
+    <img src="./assets/linkedin-button.svg" alt="Connect with me on LinkedIn" width="430" />
+  </a>
+</p>
