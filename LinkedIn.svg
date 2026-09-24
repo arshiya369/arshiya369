@@ -4,12 +4,9 @@
       <stop stop-color="#FF6A00"/>
       <stop offset="1" stop-color="#7C3AED"/>
     </linearGradient>
-    <filter id="shadow" x="-20%" y="-30%" width="140%" height="170%">
-      <feDropShadow dx="0" dy="8" stdDeviation="7" flood-color="#7C3AED" flood-opacity="0.35"/>
-    </filter>
   </defs>
 
-  <rect x="4" y="4" width="422" height="68" rx="34" fill="url(#gradient)" filter="url(#shadow)"/>
+  <rect x="4" y="4" width="422" height="68" rx="34" fill="url(#gradient)"/>
 
   <circle cx="42" cy="38" r="19" fill="white" fill-opacity="0.18"/>
 
