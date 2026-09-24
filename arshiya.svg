@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="430" height="68" viewBox="0 0 430 68">
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="430" y2="68" gradientUnits="userSpaceOnUse">
+    <linearGradient id="linkedinGradient" x1="0" y1="0" x2="430" y2="68" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#FF6A00"/>
       <stop offset="1" stop-color="#7C3AED"/>
     </linearGradient>
   </defs>
 
-  <rect width="430" height="68" rx="34" fill="url(#g)"/>
+  <rect width="430" height="68" rx="34" fill="url(#linkedinGradient)"/>
 
   <circle cx="42" cy="34" r="19" fill="#FFFFFF" fill-opacity="0.18"/>
 
