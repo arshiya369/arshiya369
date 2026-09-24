@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/arshiya-saleh-jalali-6b0571275/">
-    <img src="./LinkedIn.svg" alt="Connect with me on LinkedIn" width="220" />
+    <img src="./arshiya.svg" alt="Connect with me on LinkedIn" width="220" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/a.salehjalaly">
