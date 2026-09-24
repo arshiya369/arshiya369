@@ -3,3 +3,9 @@
     <img src="./arshiya.svg" alt="Connect with me on LinkedIn" width="280" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://www.instagram.com/a.salehjalaly">
+    <img src="./instagram.svg" alt="Follow me on Instagram" width="280" />
+  </a>
+</p>
